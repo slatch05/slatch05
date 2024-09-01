@@ -1,5 +1,5 @@
 ## Hi there 👋, my name is Harpreet Singh Slatch
-About Me
+
 -I am currently living in New Zealand 🇳🇿. 
 -Trying to be a software engineer 👨‍💻
 

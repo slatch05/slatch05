@@ -1,9 +1,8 @@
 ## Hi there 👋, my name is Harpreet Singh Slatch
+- I am currently living in New Zealand 🇳🇿
+- Trying to be a software engineer 👨‍💻
 
--I am currently living in New Zealand 🇳🇿. 
--Trying to be a software engineer 👨‍💻
 
-  
 <!--
 **slatch05/slatch05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

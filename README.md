@@ -10,7 +10,8 @@ I'm a passionate full-stack developer who loves solving problems and creating me
 - Outside of tech, I love exploring new places, learning about different cultures, and drawing inspiration from travel and family connections.  
 
 ## 💼 Projects  
-- **Biteshare**: A web app designed to bring people together through food sharing. Users can connect, share meals, and interact via a static messaging system built with basic CRUD operations. Developed using **TypeScript**, **React**, **Node.js**, **Express**, and **SQLite3**.  
+- **Biteshare**: A web app designed to bring people together through food sharing. Users can connect, share meals, and interact via a static messaging system built with basic CRUD operations. Developed using **TypeScript**, **React**, **Node.js**, **Express**, and **SQLite3**.
+  Explore the app here: [Bite-Share](https://bite-share-pohutukawa24.devacademy.nz)  
 - **GameHub**: A user-friendly platform for exploring and playing mini-games. Features include seamless navigation and an integrated chat system to connect players. Built to foster interaction and entertainment.  
 
 

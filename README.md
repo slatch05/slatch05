@@ -1,36 +1,39 @@
 Hi there 👋, I'm Harpreet Singh Slatch
 
-I’m a full-stack developer who loves solving problems and creating useful solutions. I have experience in coding, teamwork, and using agile methods to build projects. I adapt quickly, learn fast, and enjoy turning ideas into real projects. Outside of coding, I find inspiration through travel and family. Let’s work together to build something great!
+Highly motivated and enthusiastic aspiring Full-Stack Web Developer with a strong foundation in front-end and back-end technologies. I'm excited to work on new projects and always want to improve my skills. I'm looking for a place where I can learn and grow, and I'm ready to work hard in a challenging but helpful environment.
 
 🌟 About Me
-My fascination with technology began in childhood with a love for video games, which motivated me to learn about tech. With a Bachelor’s degree in IT and experience in retail and telecommunications, I’ve cultivated teamwork, problem-solving, and customer service skills that complement my technical expertise.
+I’m a full-stack developer who loves solving problems and creating useful solutions. I have experience in coding, teamwork, and using agile methods to build projects. I adapt quickly, learn fast, and enjoy turning ideas into real projects. Outside of coding, I find inspiration through travel and family. Let’s work together to build something great!
 
-I’m driven by the excitement of creating innovative web solutions and contributing to impactful projects. Whether collaborating with a team or working independently, I’m committed to continuous learning and delivering high-quality work.
+# Hi, I'm Harpreet! 👋  
 
-💼 Tech Stack
-Frontend: React, JavaScript, TypeScript, HTML5, CSS3
-Backend: Node.js, Express, Knex, SQLite3
-Tools: Git, GitHub, Vitest, Docker
-🚀 Projects
-Bite-Share
-GitHub Repo
-For my final project at Dev Academy, I worked with a team of three to create Bite-Share, a web app designed to reduce hunger and food waste by connecting individuals with surplus food to those in need.
+I'm a passionate full-stack developer who loves solving problems and creating meaningful solutions. With experience in coding, teamwork, and agile development, I enjoy bringing ideas to life through impactful projects.  
 
-Role: Backend and Vibes Lead
-Managed migration tables, seeded data, implemented database query functions, and defined backend routes.
-Contributed to the frontend, ensuring smooth backend integration with the user interface.
-Facilitated daily stand-ups, and scheduled breaks, and fostered a positive team dynamic.
-This project showcased my full-stack development skills and highlighted the power of collaboration in solving real-world problems.
+---
 
-🎯 What’s Next
-I’m building an e-commerce platform to refine my skills in web development and deepen my understanding of React concepts from the book The Road to React. In my free time, you’ll find me completing coding challenges, attending meetups, or working on personal projects that push my boundaries. I’m also reflecting on everything I’ve learned during bootcamp while exploring new opportunities to collaborate, innovate, and grow as a developer.
+## 🔧 What I Do  
+- **Full-Stack Development**: Building applications that solve real-world problems.  
+- **Problem-Solving**: Tackling challenges with creative and efficient solutions.  
+- **Team Collaboration**: Working together using agile methods to achieve great results.  
 
-⚡ When I’m Not Coding
-I enjoy staying active through regular exercise and sports.
+---
 
-📫 Let’s Connect
-LinkedIn
-GitHub
+## 🌟 What Sets Me Apart  
+- Quick learner, always eager to adapt to new challenges.  
+- Skilled in both independent and team-based work environments.  
+- Passionate about growing and learning continuously.  
+
+---
+
+## 🌍 When I’m Not Coding  
+I love exploring new places, learning about different cultures, and drawing inspiration from travel and family connections.  
+
+---
+
+## 🚀 Let’s Build Something Amazing!  
+I’m always excited to connect and collaborate on exciting projects.  
+Feel free to reach out or check out my work!  
+
 <!--
 **slatch05/slatch05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

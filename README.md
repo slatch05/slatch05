@@ -37,6 +37,6 @@ I’m always excited to connect and collaborate on exciting projects.
 ---
 
 ## 🤝 Let’s Connect  
-- **GitHub**: [Your GitHub Profile](https://github.com/slatch05)  
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/harpreet-singh-slatch-894b94168/)  
-- **Email**: [your.email@example.com](mailto:blue_slatch@yahoo.com)  
+- **GitHub**:(https://github.com/slatch05)  
+- **LinkedIn**:(https://www.linkedin.com/in/harpreet-singh-slatch-894b94168/)  
+- **Email**:(mailto:blue_slatch@yahoo.com)  

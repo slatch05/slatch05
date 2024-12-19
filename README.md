@@ -1,7 +1,5 @@
 - Hi there 👋, my name is Harpreet Singh Slatch
-- I am currently living in New Zealand 🇳🇿
-- Trying to be a software developer 👨‍💻
-
+I’m a full-stack developer who loves solving problems and creating useful solutions. I have experience in coding, teamwork, and using agile methods to build projects. I adapt quickly, learn fast, and enjoy turning ideas into real projects. Outside of coding, I find inspiration through travel and family. Let’s work together to build something great!
 
 <!--
 **slatch05/slatch05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

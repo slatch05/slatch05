@@ -1,4 +1,4 @@
-- Hi there 👋, my name is Harpreet Singh Slatch
+Hi there 👋, I'm Harpreet Singh Slatch
 I’m a full-stack developer who loves solving problems and creating useful solutions. I have experience in coding, teamwork, and using agile methods to build projects. I adapt quickly, learn fast, and enjoy turning ideas into real projects. Outside of coding, I find inspiration through travel and family. Let’s work together to build something great!
 
 <!--

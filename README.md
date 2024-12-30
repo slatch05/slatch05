@@ -15,11 +15,6 @@ I'm a passionate full-stack developer who loves solving problems and creating me
 - **GameHub**: A user-friendly platform for exploring and playing mini-games. Features include seamless navigation and an integrated chat system to connect players. Built to foster interaction and entertainment.  
 
 
-## 🌟 What Sets Me Apart  
-- Quick learner, always eager to adapt to new challenges.  
-- Skilled in both independent and team-based work environments.  
-- Passionate about growing and learning continuously.  
-
 ## 🛠️ Tech Stack  
 - **Frontend**: React, JavaScript, TypeScript, HTML, CSS   
 - **Backend**: Node.js, Express.js, Knex, SQLite3  
